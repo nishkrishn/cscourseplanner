@@ -36,8 +36,8 @@ if __name__ == '__main__':
   fasCalendarParser.parseFASCalendar()
 
   # Create CSC files from calendar info
-  print('Extra calendar info for CSC courses')
-  calendarParser.parseCalendar()
+  #print('Extra calendar info for CSC courses')
+  #calendarParser.parseCalendar()
 
   # Add to CSC files using timetable
   print('Extra timetable info for CSC courses')
